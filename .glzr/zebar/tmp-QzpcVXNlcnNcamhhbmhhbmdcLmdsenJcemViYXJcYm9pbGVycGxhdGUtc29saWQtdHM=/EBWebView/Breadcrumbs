@@ -1,0 +1,32 @@
+0:00:26 Microsoft.NewBrowser_Popup
+0:00:26 Microsoft.BrowserList.AddBrowser
+0:00:26 Browser4 Insert active Tab4 at 0
+0:00:26 Tab4 StartNav7 #auto_toplevel
+0:00:26 Tab4 FinishNav7
+0:00:26 Tab4 PageLoad
+0:00:26 Tab4 StartNav8 #typed
+0:00:26 Tab4 FinishNav8
+0:00:26 Tab4 PageLoad
+0:00:34 Microsoft.NewBrowser_Popup
+0:00:34 Microsoft.BrowserList.AddBrowser
+0:00:34 Browser5 Insert active Tab5 at 0
+0:00:34 Tab5 StartNav9 #auto_toplevel
+0:00:34 Microsoft.Shutdown.OnWindowClosing
+0:00:34 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:00:34 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:00:34 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:00:34 Browser4 Close Tab4 at 0
+0:00:34 Tab4 WebContentsDestroyed
+0:00:34 Microsoft.Shutdown.OnWindowClosing
+0:00:34 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:00:34 Widget Closed: BrowserFrame
+0:00:34 Microsoft.Shutdown.OnWindowClosing
+0:00:34 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:00:34 Microsoft.Browser_Removed
+0:00:34 Tab5 FinishNav9
+0:00:34 Tab5 PageLoad
+0:00:34 Tab5 StartNav10 #typed
+0:00:34 Tab5 FinishNav10
+0:00:34 Tab5 PageLoad
+0:00:43 Widget Closed: MenuHost
+0:01:01 Browser5 Close Tab5 at 0

@@ -1,0 +1,1503 @@
+2025-05-05 22:21:55,515 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:21:55,515 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:21:55,548 [INFO] [MainThread] [root/config.py:61]: Created default config file at C:\Users\jhanhang\.config\yasb\config.yaml
+2025-05-05 22:21:55,581 [INFO] [MainThread] [root/config.py:75]: Created default stylesheet at C:\Users\jhanhang\.config\yasb\styles.css
+2025-05-05 22:21:55,581 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:21:55,581 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:21:55,729 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:21:56,080 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-05 22:21:56,085 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:22:08,369 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:22:08,372 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-53b85056-29bc-11f0-af82-005056c00008
+2025-05-05 22:22:08,548 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:22:08,555 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:25:24,146 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-05 22:25:24,147 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-05 22:25:24,248 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:25:24,248 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:25:24,251 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:25:24,264 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:25:24,265 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:25:26,738 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:25:26,738 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:25:26,767 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:25:26,767 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:25:26,895 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:25:28,802 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:25:40,243 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:25:40,292 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:25:40,292 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:28:02,940 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:28:03,090 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:28:29,153 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:28:29,256 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:28:29,256 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:28:29,263 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:28:29,272 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:28:29,274 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:28:29,546 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:28:29,546 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:28:29,577 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:28:29,577 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:28:29,673 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:28:32,132 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:28:45,965 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:28:46,044 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:28:46,045 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:29:02,630 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:29:02,745 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:29:02,745 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:29:02,751 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:29:02,766 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:29:02,767 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:29:03,019 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:29:03,019 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:29:03,041 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:29:03,041 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:29:03,127 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:29:04,740 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:29:16,449 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:29:16,513 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:29:16,514 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:30:03,202 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:30:03,245 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:30:22,674 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:30:22,789 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:30:22,789 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:30:22,816 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:30:22,835 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:30:22,835 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:30:23,123 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:30:23,123 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:30:23,179 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:30:23,180 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:30:23,327 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:30:25,897 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:30:38,698 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:30:38,766 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:30:38,767 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:30:42,099 [ERROR] [MainThread] [root/base.py:89]: Failed to execute callback of type 'toggle_group' with args: []
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\base.py", line 87, in _run_callback
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\disk.py", line 90, in _toggle_group
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\disk.py", line 163, in show_group_label
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\disk.py", line 244, in _get_space
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\psutil\__init__.py", line 2049, in disk_usage
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\psutil\_pswindows.py", line 259, in disk_usage
+PermissionError: [WinError 21] 设备未就绪。: 'E:\\'
+2025-05-05 22:31:04,384 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:31:04,496 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:31:04,496 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:31:04,554 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:31:04,567 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:31:04,570 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:31:04,923 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:31:04,923 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:31:04,924 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-05 22:31:47,557 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:31:47,557 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:31:47,613 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:31:47,614 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:31:47,705 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:31:49,551 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:32:04,333 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:32:04,333 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:32:04,333 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-05 22:32:06,740 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:32:06,830 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:32:06,830 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:32:18,875 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:32:18,978 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:32:18,978 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:32:19,000 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:32:19,010 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:32:19,010 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:32:19,287 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:32:19,287 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:32:19,310 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:32:19,311 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:32:19,390 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:32:21,575 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:32:35,483 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:32:35,545 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:32:35,546 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:32:44,086 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:32:44,189 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:32:44,189 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:32:44,207 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:32:44,228 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:32:44,232 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:32:44,520 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:32:44,520 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:32:44,539 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:32:44,539 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:32:44,640 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:32:46,343 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:32:58,728 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:32:58,785 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:32:58,787 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:33:12,660 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:33:12,766 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:33:12,766 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:33:12,794 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:33:12,801 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:33:12,804 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:33:13,096 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:33:13,096 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:33:13,126 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:33:13,126 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:33:13,214 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:33:15,472 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:33:30,051 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:33:30,129 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:33:30,131 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:33:30,618 [CRITICAL] [TrayMonitorThread] [systray_widget/tray_monitor.py:255]: Could not find the real systray window
+2025-05-05 22:34:13,886 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:34:13,992 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:34:13,992 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:34:14,023 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:34:14,042 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:34:14,043 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:34:14,298 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:34:14,298 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:34:14,324 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:34:14,324 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:34:14,405 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:34:16,123 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:34:29,502 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:34:29,569 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:34:29,570 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:34:32,601 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:34:32,708 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:34:32,708 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:34:32,728 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:34:32,743 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:34:32,747 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:34:33,027 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:34:33,027 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:34:33,059 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:34:33,059 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:34:33,126 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:34:33,199 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-05 22:34:34,716 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:34:46,325 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:34:46,418 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:34:46,419 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:35:10,689 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:35:10,792 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:35:10,792 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:35:10,820 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:35:10,838 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:35:10,840 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:35:11,092 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:35:11,092 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:35:11,124 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:35:11,124 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:35:11,208 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:35:13,027 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:35:25,580 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:35:25,643 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:35:25,643 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:36:45,748 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:36:45,852 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:36:45,852 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:36:45,881 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:36:45,888 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:36:45,892 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:36:46,157 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:36:46,157 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:36:46,186 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:36:46,187 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:36:46,276 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:36:48,078 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:37:01,728 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-05 22:37:01,884 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:37:01,966 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:37:01,967 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:37:39,745 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-05 22:37:39,851 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:37:39,851 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:37:39,900 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:37:39,917 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:37:39,919 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:37:40,213 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:37:40,214 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:37:40,233 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:37:40,233 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:37:40,329 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:37:42,066 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:37:57,006 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-05 22:37:57,277 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:37:57,340 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:37:57,341 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:37:57,469 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:00,925 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:05,695 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:11,484 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:15,704 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:20,705 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:25,766 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:30,715 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:35,773 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:40,718 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:45,705 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:50,794 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:38:55,733 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:00,756 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:05,728 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:10,823 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:15,731 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:20,749 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:25,845 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:30,708 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:35,821 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:40,274 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+weather:
+- unknown field
+
+2025-05-05 22:39:40,716 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:45,712 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:46,957 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+weather:
+- unknown field
+
+2025-05-05 22:39:50,717 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:55,763 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:39:56,159 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2025-05-05 22:39:56,207 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2025-05-05 22:40:00,792 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:01,632 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+weather:
+- unknown field
+
+2025-05-05 22:40:05,698 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:07,807 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:40:07,910 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:40:07,910 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:40:07,940 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:40:07,954 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:40:07,956 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:40:08,279 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:40:08,279 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:40:08,303 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:40:08,303 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:40:08,396 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:40:09,005 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:10,952 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:40:26,538 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-05 22:40:26.538148
+2025-05-05 22:40:26,734 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:40:26,826 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:40:26,828 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:40:26,917 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:28,845 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:30,532 [WARNING] [MainThread] [root/weather.py:110]: Weather data is not yet available.
+2025-05-05 22:40:33,957 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:38,842 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:43,855 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:48,888 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:53,847 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:40:58,896 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:03,155 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-05 22:41:03,269 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-05 22:41:03,269 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-05 22:41:03,297 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-05 22:41:03,299 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-05 22:41:03,301 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-05 22:41:03,614 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-05 22:41:03,614 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-05 22:41:03,641 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-05 22:41:03,641 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-05 22:41:03,731 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-05 22:41:04,246 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:05,877 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-05 22:41:20,375 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-05 22:41:20,446 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-05 22:41:20,446 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-05 22:41:20,544 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:24,157 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:29,159 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:34,232 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:39,172 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:44,148 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:49,163 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:54,263 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:41:59,168 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:42:04,172 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:42:09,150 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:42:14,193 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:42:19,396 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:42:24,150 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: cannot unpack non-iterable NoneType object
+2025-05-05 22:55:18,992 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:55:19,105 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:58:18,521 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:58:18,575 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 5028
+2025-05-05 22:58:40,014 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 14:14:58,921 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:14:58,923 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:14:58,949 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 14:14:58,949 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 14:14:59,030 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 14:15:00,182 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 14:15:07,700 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 14:15:07,792 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 14:15:07,792 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 14:18:33,574 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:33,578 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:33,645 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:33,648 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:37,000 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:37,315 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:37,521 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:18:38,065 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:19:45,405 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:19:45,540 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:19:46,002 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:19:46,084 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:21:54,478 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:21:54,529 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:21:54,579 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:21:54,580 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:34:45,580 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:34:49,440 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:34:49,525 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 19776
+2025-05-06 14:35:23,219 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 14:35:23,328 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 14:35:23,328 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 14:35:23,357 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 14:35:23,361 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 14:35:23,363 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 14:35:23,924 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:35:23,924 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:35:23,982 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 14:35:23,982 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 14:35:24,167 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 14:35:24,370 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget '“”，"media"
+2025-05-06 14:35:26,369 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 14:35:39,143 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "“”，"media"" is undefined.
+2025-05-06 14:35:45,259 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 14:35:59,372 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 14:35:59,376 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 14:35:59,428 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 14:35:59,538 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 14:35:59,538 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 14:35:59,875 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 14:35:59,890 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 14:35:59,891 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 14:36:00,189 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:36:00,189 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:36:00,216 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 14:36:00,216 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 14:36:00,299 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 14:36:00,369 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 14:36:00.369053
+2025-05-06 14:36:02,006 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 14:36:05,510 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:36:05,514 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:36:05,514 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 14:36:12,357 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 14:36:12,431 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 14:36:12,431 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 14:36:28,074 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 14:36:28,186 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 14:36:28,186 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 14:36:28,196 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 14:36:28,202 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 14:36:28,203 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 14:36:28,478 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:36:28,478 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:36:28,507 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 14:36:28,507 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 14:36:28,585 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 14:36:30,012 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 14:36:40,163 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 14:36:40,227 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 14:36:40,228 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 14:37:30,293 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 14:37:30,402 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 14:37:30,402 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 14:37:30,423 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 14:37:30,434 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 14:37:30,434 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 14:37:30,729 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 14:37:30,729 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 14:37:30,759 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 14:37:30,759 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 14:37:30,844 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 14:37:30,909 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 14:37:30.909787
+2025-05-06 14:37:32,690 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 14:37:46,554 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 14:37:46,623 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 14:37:46,624 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 14:38:54,874 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 22:00:19,777 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 22:00:19,777 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 22:00:19,799 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 22:00:19,799 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 22:00:19,893 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 22:00:19,975 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:00:19.975368
+2025-05-06 22:00:20,914 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 22:00:28,000 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 22:00:28,097 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 22:00:28,098 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 22:00:32,775 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/122.png: <urlopen error timed out>
+2025-05-06 22:00:34,322 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/122.png: timed out
+2025-05-06 22:00:36,329 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/113.png: <urlopen error timed out>
+2025-05-06 22:00:58,952 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:00:59,038 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:00:59,577 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:01:01,431 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:03:08,538 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:03:08,794 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:03:08,970 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:03:09,548 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:10:19,982 [INFO] [Thread-8 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:10:19.982895
+2025-05-06 22:10:24,924 [WARNING] [Thread-8 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/122.png: <urlopen error timed out>
+2025-05-06 22:10:27,431 [WARNING] [Thread-8 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/122.png: timed out
+2025-05-06 22:10:29,441 [WARNING] [Thread-8 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/113.png: <urlopen error timed out>
+2025-05-06 22:11:36,638 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:11:36,638 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:11:36,782 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:11:36,782 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:20:07,509 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:20:08,743 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:20:08,776 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 22:20:19,981 [INFO] [Thread-9 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:20:19.981612
+2025-05-06 22:30:19,977 [INFO] [Thread-10 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:30:19.975154
+2025-05-06 22:30:25,619 [WARNING] [Thread-10 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/122.png: <urlopen error timed out>
+2025-05-06 22:40:19,986 [INFO] [Thread-11 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:40:19.986961
+2025-05-06 22:50:19,981 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 22:50:19.981830
+2025-05-06 23:00:19,989 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:00:19.989211
+2025-05-06 23:10:19,983 [INFO] [Thread-14 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:10:19.983206
+2025-05-06 23:11:54,520 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 23:11:54,564 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 23:12:05,253 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:12:05,358 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:12:05,358 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:12:05,382 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:12:05,393 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:12:05,395 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:12:05,779 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:12:05,779 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:12:05,831 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:12:05,833 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:12:05,932 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:12:06,263 [ERROR] [Dummy-15] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000027A886F6AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-06 23:12:06,263 [ERROR] [Dummy-15] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000027A886F6AD0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-06 23:12:08,968 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:12:25,605 [ERROR] [Dummy-15] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000027A886F6AD0>. Removing link to WinEvent.EventSystemForeground.
+2025-05-06 23:12:25,786 [ERROR] [MainThread] [root/widget_builder.py:88]: Failed to validate widget(s) due to invalid options  - weather
+      language:
+      - unknown field
+      
+2025-05-06 23:12:27,881 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:12:42,018 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:12:42,018 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:12:45,922 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:12:46,025 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:12:46,025 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:12:46,046 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:12:46,056 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:12:46,057 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:12:46,307 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:12:46,307 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:12:46,335 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:12:46,336 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:12:46,402 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'language
+2025-05-06 23:12:46,407 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:12:46,486 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:12:46.486871
+2025-05-06 23:12:48,244 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:12:59,530 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "language" is undefined.
+2025-05-06 23:13:01,043 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:13:15,173 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:13:15,175 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:13:27,849 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:13:27,952 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:13:27,952 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:13:27,968 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:13:27,984 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:13:27,984 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:13:28,226 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:13:28,226 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:13:28,226 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:14:41,908 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:14:41,908 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:14:41,963 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:14:41,963 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:14:42,097 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:14:42,197 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:14:42.197031
+2025-05-06 23:14:44,152 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:15:00,124 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:15:00,125 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:15:00,125 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:15:01,408 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'language
+2025-05-06 23:15:01,408 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'bin
+2025-05-06 23:15:01,645 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "language" is undefined.
+ - The widget "bin" is undefined.
+2025-05-06 23:15:02,453 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/113.png: timed out
+2025-05-06 23:15:06,996 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:15:21,130 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:15:21,132 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:15:29,771 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:15:29,880 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:15:29,880 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:15:29,907 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:15:29,918 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:15:29,923 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:15:30,206 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:15:30,206 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:15:30,240 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:15:30,241 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:15:30,360 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:15:30,451 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:15:30.451287
+2025-05-06 23:15:32,455 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:15:41,607 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:15:41,607 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:15:41,607 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:15:44,110 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:15:44,164 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:15:44,165 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:16:16,171 [ERROR] [MainThread] [root/config.py:119]: The file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\jhanhang\.config\yasb\config.yaml", line 40, column 10
+2025-05-06 23:16:17,284 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:16:17,403 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:16:17,403 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:16:17,421 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:16:17,434 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:16:17,436 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:16:17,698 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:16:17,698 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:16:17,724 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:16:17,724 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:16:17,828 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:16:19,813 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:16:31,370 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:16:31,428 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:16:31,429 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:16:31,716 [ERROR] [MainThread] [root/config.py:119]: The file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\jhanhang\.config\yasb\config.yaml", line 40, column 28
+2025-05-06 23:16:35,342 [ERROR] [MainThread] [root/config.py:119]: The file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\jhanhang\.config\yasb\config.yaml", line 40, column 28
+2025-05-06 23:16:36,628 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:16:36,743 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:16:36,744 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:16:36,772 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:16:36,789 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:16:36,790 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:16:37,084 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:16:37,085 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:16:37,141 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:16:37,141 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:16:37,261 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:16:37.261663
+2025-05-06 23:16:37,299 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:16:39,160 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:16:50,288 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:16:50,372 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:16:50,373 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:17:03,090 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+notes:
+- unknown field
+
+2025-05-06 23:17:10,308 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:17:10,420 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:17:10,420 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:17:10,456 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:17:10,467 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:17:10,469 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:17:10,745 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:17:10,745 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:17:10,772 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:17:10,772 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:17:10,851 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:17:10.851194
+2025-05-06 23:17:10,885 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:17:12,903 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:17:24,565 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:17:24,637 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:17:24,638 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:17:31,977 [ERROR] [MainThread] [root/config.py:110]: The config file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains validation errors. Please fix:
+power_menu:
+- unknown field
+
+2025-05-06 23:17:34,438 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:17:34,551 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:17:34,551 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:17:34,861 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:17:34,861 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:17:34,895 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:17:34,895 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:17:35,039 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:17:35.039560
+2025-05-06 23:17:35,073 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:17:37,059 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:17:48,063 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/122.png: timed out
+2025-05-06 23:17:48,206 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:17:48,273 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:17:48,274 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:17:54,026 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:17:54,131 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:17:54,131 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:17:54,160 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:17:54,183 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:17:54,185 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:17:54,456 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:17:54,456 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:17:54,489 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:17:54,489 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:17:54,585 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:17:54.585627
+2025-05-06 23:17:54,622 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:17:54,709 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'note
+2025-05-06 23:17:57,028 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:18:03,305 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:18:03,305 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:18:03,305 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:18:09,894 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "note" is undefined.
+2025-05-06 23:18:12,842 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:18:26,965 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:18:26,967 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:18:27,030 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:18:27,144 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:18:27,144 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:18:27,268 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:18:27,293 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:18:27,295 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:18:27,585 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:18:27,585 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:18:27,612 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:18:27,612 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:18:27,750 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:18:27.750436
+2025-05-06 23:18:27,800 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:18:29,829 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:18:40,552 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:18:40,614 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:18:40,615 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:18:58,219 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:18:58,324 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:18:58,325 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:18:58,356 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:18:58,373 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:18:58,376 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:18:58,635 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:18:58,636 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:18:58,663 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:18:58,664 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:18:58,752 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:18:58.752319
+2025-05-06 23:18:58,785 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:19:00,875 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:19:13,522 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:19:13,583 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:19:13,584 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:19:35,082 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:19:35,185 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:19:35,185 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:19:35,210 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:19:35,226 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:19:35,228 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:19:35,495 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:19:35,495 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:19:35,529 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:19:35,529 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:19:35,626 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:19:35.626073
+2025-05-06 23:19:35,665 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:19:37,624 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:19:50,212 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:19:50,287 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:19:50,288 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:20:09,070 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:20:09,177 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:20:09,177 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:20:09,204 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:20:09,225 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:20:09,226 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:20:09,480 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:20:09,480 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:20:09,517 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:20:09,517 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:20:09,670 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:20:09.670032
+2025-05-06 23:20:09,752 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:20:11,702 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:20:22,533 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:20:22,605 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:20:22,606 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:20:46,057 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:20:46,164 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:20:46,164 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:20:46,175 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:20:46,180 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:20:46,180 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:20:46,443 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:20:46,443 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:20:46,472 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:20:46,472 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:20:46,562 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:20:46.562088
+2025-05-06 23:20:46,595 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:20:48,553 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:21:00,678 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:21:00,746 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:21:00,749 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:22:04,135 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:22:04,248 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:22:04,249 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:22:04,268 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:22:04,283 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:22:04,284 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:22:04,589 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:22:04,590 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:22:04,633 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:22:04,633 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:22:04,712 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:22:04.712184
+2025-05-06 23:22:04,744 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:22:06,880 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:22:19,297 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:22:19,358 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:22:19,359 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:22:21,777 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:22:21,892 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:22:21,892 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:22:22,129 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:22:22,145 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:22:22,147 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:22:22,399 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:22:22,399 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:22:22,426 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:22:22,427 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:22:22,511 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:22:22.511089
+2025-05-06 23:22:22,543 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:22:24,619 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:22:37,171 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:22:37,233 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:22:37,234 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:25:10,790 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 23:25:10,826 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 1912
+2025-05-06 23:32:22,513 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:32:22.513743
+2025-05-06 23:37:09,541 [ERROR] [MainThread] [root/wifi.py:145]: Error in wifi widget update: [WinError -2147024809] 参数错误。
+2025-05-06 23:38:48,740 [ERROR] [MainThread] [root/config.py:119]: The file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\jhanhang\.config\yasb\config.yaml", line 40, column 28
+2025-05-06 23:38:48,746 [ERROR] [MainThread] [root/config.py:119]: The file 'C:\Users\jhanhang\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\jhanhang\.config\yasb\config.yaml", line 40, column 28
+2025-05-06 23:38:50,076 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:38:50,181 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:38:50,181 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:38:50,207 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:38:50,217 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:38:50,219 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:38:50,550 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:38:50,550 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:38:50,586 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:38:50,586 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:38:50,719 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:38:50.719228
+2025-05-06 23:38:50,774 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:38:53,485 [ERROR] [Thread-3 (_get_weather_data)] [root/weather.py:453]: Error fetching weather data: HTTP Error 502: Bad Gateway
+2025-05-06 23:38:53,630 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:39:12,251 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:39:12,251 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:39:12,251 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:39:12,988 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:39:13,108 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:39:13,110 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:39:17,249 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:39:17,249 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:39:17,249 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:39:39,257 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:39:39,361 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:39:39,361 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:39:39,388 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:39:39,409 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:39:39,412 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:39:39,735 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:39:39,735 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:39:39,775 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:39:39,776 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:39:39,881 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:39:39.881476
+2025-05-06 23:39:39,922 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:39:42,481 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:39:51,674 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:39:51,674 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:39:51,674 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-06 23:40:00,160 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:40:00,238 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:40:00,241 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:40:19,404 [WARNING] [MainThread] [root/weather.py:110]: Weather data is not yet available.
+2025-05-06 23:40:21,020 [ERROR] [Thread-3 (_get_weather_data)] [root/weather.py:453]: Error fetching weather data: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2025-05-06 23:40:26,643 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:40:26,643 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:40:26,644 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:40:28,312 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:40:28,312 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:40:28,312 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:40:29,239 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:40:29,239 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:40:29,239 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:40:30,065 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:40:30,066 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:40:30,066 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:40:30,814 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:40:30,815 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:40:30,815 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:49:13,274 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-06 23:49:13,274 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-06 23:49:13,274 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-06 23:49:39,882 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:49:39.882345
+2025-05-06 23:55:40,065 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-06 23:55:40,166 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:55:40,166 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:55:40,201 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:55:40,216 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:55:40,217 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:55:40,467 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:55:40,473 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:55:40,500 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:55:40,503 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:55:40,568 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:55:40.568000
+2025-05-06 23:55:40,613 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:55:42,289 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:55:53,750 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:55:53,801 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:55:53,801 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:55:55,310 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/116.png: timed out
+2025-05-06 23:55:57,512 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error timed out>
+2025-05-06 23:56:10,747 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-06 23:56:10,863 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-06 23:56:10,863 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-06 23:56:10,892 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:56:10,912 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:56:10,914 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:56:11,167 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-06 23:56:11,167 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-06 23:56:11,194 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-06 23:56:11,196 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-06 23:56:11,275 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-06 23:56:11.275756
+2025-05-06 23:56:11,328 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-06 23:56:13,020 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-06 23:56:24,328 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-06 23:56:24,385 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-06 23:56:24,386 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-06 23:56:27,394 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2025-05-06 23:57:09,405 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-06 23:57:09,421 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-06 23:57:09,424 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-06 23:57:09,724 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001D7AA03AAD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-06 23:57:09,777 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 0
+2025-05-07 08:56:23,445 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 08:56:23,457 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 08:56:23,480 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 08:56:23,480 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 08:56:23,555 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 08:56:23.555032
+2025-05-07 08:56:23,588 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 08:56:25,495 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 08:56:43,808 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 08:56:43,985 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 08:56:43,985 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:00:54,478 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:00:54,645 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:47,225 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:47,344 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:51,364 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:51,679 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:51,926 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:52,041 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:52,253 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:52,468 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:52,723 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:52,962 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:53,172 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:53,382 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:53,612 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:05:54,909 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:06:23,556 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:06:23.556089
+2025-05-07 09:06:38,358 [ERROR] [Thread-12 (_get_weather_data)] [root/weather.py:453]: Error fetching weather data: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2025-05-07 09:08:10,381 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-07 09:08:10,381 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-07 09:08:10,381 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-07 09:08:15,042 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-07 09:08:15,144 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:08:15,145 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:08:15,223 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:08:15,238 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:08:15,238 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:08:15,270 [ERROR] [Dummy-13] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002F09BB26AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-07 09:08:15,464 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:08:15,464 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:08:15,495 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:08:15,495 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:08:15,580 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:08:15.580566
+2025-05-07 09:08:15,622 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:08:17,866 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:08:31,737 [ERROR] [Dummy-13] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002F09BB26AD0>. Removing link to WinEvent.EventSystemForeground.
+2025-05-07 09:08:31,766 [ERROR] [Dummy-13] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002F09BB26AD0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-07 09:08:31,786 [ERROR] [Thread-3 (_get_weather_data)] [root/weather.py:453]: Error fetching weather data: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2025-05-07 09:08:32,785 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:08:38,750 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:08:38,762 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:10:02,249 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-07 09:10:02,250 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-07 09:10:02,250 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-07 09:10:21,370 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-07 09:10:21,371 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-07 09:10:21,371 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-07 09:10:28,083 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-07 09:10:28,196 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:10:28,196 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:10:28,258 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:10:28,266 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:10:28,269 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:10:28,753 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:10:28,753 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:10:28,818 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:10:28,818 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:10:28,982 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:10:28.982237
+2025-05-07 09:10:29,025 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:10:31,452 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:10:47,213 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:10:47,298 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:10:47,298 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:11:31,701 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:11:31,811 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:11:31,811 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:11:31,842 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:11:31,850 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:11:31,852 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:11:32,231 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:11:32,231 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:11:32,275 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:11:32,275 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:11:32,501 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:11:32.501225
+2025-05-07 09:11:32,607 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:11:35,049 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:11:52,534 [ERROR] [MainThread] [root/widget_builder.py:88]: Failed to validate widget(s) due to invalid options  - power_menu
+      label_shadow:
+      - battery:
+        - unknown field
+      
+2025-05-07 09:11:53,175 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/116.png: timed out
+2025-05-07 09:12:21,327 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:12:21,327 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:12:21,327 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-07 09:12:54,114 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:13:08,317 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:13:08,324 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:13:08,417 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:13:08,534 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:13:08,534 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:13:09,377 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:13:09,384 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:13:09,387 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:13:09,467 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000207E9DBAAD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-07 09:13:09,753 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:13:09,753 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:13:09,986 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:13:09,986 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:13:10,137 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:13:10.137348
+2025-05-07 09:13:10,175 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:13:10,240 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'batter
+2025-05-07 09:13:12,459 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:13:16,969 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:13:16,970 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:13:16,970 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-07 09:13:31,730 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "batter" is undefined.
+2025-05-07 09:13:35,409 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:13:56,578 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:13:56,588 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:13:56,664 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:13:56,768 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:13:56,768 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:13:57,282 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:13:57,289 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:13:57,291 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:13:57,380 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001FEED816AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-07 09:13:58,489 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:13:58,490 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:13:58,529 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:13:58,529 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:13:58,628 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:13:58.628180
+2025-05-07 09:13:58,666 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:14:01,234 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:14:01,234 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:14:01,234 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-07 09:14:01,780 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:14:18,982 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:14:19,186 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:14:19,186 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:14:20,472 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:14:20,578 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:14:20,579 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:14:20,611 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:14:20,622 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:14:20,624 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:14:21,224 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:14:21,224 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:14:21,264 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:14:21,264 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:14:21,368 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:14:21.368103
+2025-05-07 09:14:21,403 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:14:23,804 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:14:39,092 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:14:39,257 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:14:39,258 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:24:21,373 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:24:21.373734
+2025-05-07 09:27:52,474 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:27:52,587 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:27:52,588 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:27:52,607 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:27:52,621 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:27:52,622 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:27:53,760 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:27:53,760 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:27:53,800 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:27:53,800 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:27:53,931 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:27:53.931540
+2025-05-07 09:27:53,988 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:27:56,497 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:28:12,816 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:28:12,981 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:28:12,981 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:28:13,528 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/308.png: timed out
+2025-05-07 09:28:14,539 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/113.png: timed out
+2025-05-07 09:28:20,785 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:28:20,893 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:28:20,893 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:28:20,922 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:28:20,926 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:28:20,927 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:28:21,416 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:28:21,416 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:28:21,548 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:28:21,549 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:28:21,679 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:28:21.679870
+2025-05-07 09:28:21,736 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:28:24,389 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:28:39,912 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2025-05-07 09:28:40,532 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:28:40,738 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:28:40,748 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:29:08,204 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-07 09:29:08,310 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:29:08,310 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:29:08,365 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:29:08,373 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:29:08,375 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:29:09,414 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:29:09,414 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:29:09,452 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:29:09,452 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:29:09,622 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:29:09.622436
+2025-05-07 09:29:09,694 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:29:11,699 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:29:24,989 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:29:25,061 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:29:25,062 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:29:41,578 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:29:41,580 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:29:41,633 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:29:41,635 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:37:28,489 [ERROR] [TrayMonitorThread] [root/app_icons.py:216]: GetIconInfo failed: 0
+2025-05-07 09:39:09,618 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:39:09.618149
+2025-05-07 09:39:20,601 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:20,651 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,612 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,690 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,791 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,862 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,930 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:23,996 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:24,060 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:24,143 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:24,230 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:24,303 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:24,373 [ERROR] [Thread-13 (_get_weather_data)] [root/weather.py:453]: Error fetching weather data: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2025-05-07 09:39:24,498 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:39:25,388 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:43:29,880 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-07 09:43:29,880 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-07 09:43:29,881 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-07 09:43:33,133 [WARNING] [MainThread] [root/weather.py:172]: Could not load day0 icon
+2025-05-07 09:43:33,133 [WARNING] [MainThread] [root/weather.py:193]: Could not load day1 icon
+2025-05-07 09:43:33,133 [WARNING] [MainThread] [root/weather.py:213]: Could not load day2 icon
+2025-05-07 09:44:40,409 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:44:40,520 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:44:40,521 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:44:40,539 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:44:40,553 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:44:40,554 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:44:40,820 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:44:40,820 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:44:40,851 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:44:40,851 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:44:40,937 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:44:40.937773
+2025-05-07 09:44:40,971 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:44:43,973 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:44:57,513 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:44:57,591 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:44:57,591 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:44:57,859 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:44:57,887 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:00,718 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:00,796 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:00,863 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:00,923 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:00,987 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,083 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,207 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,248 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,313 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,360 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,433 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:01,570 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:46,014 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:45:46,048 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:25,975 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:46:26,080 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:46:26,081 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:46:26,097 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:46:26,122 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:46:26,122 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:46:26,413 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:46:26,413 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:46:26,468 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:46:26,469 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:46:26,556 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:46:26.556528
+2025-05-07 09:46:26,590 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:46:28,940 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:46:40,890 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:46:40,966 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:46:40,966 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:46:41,168 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:41,212 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:42,753 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/308.png: timed out
+2025-05-07 09:46:43,964 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,046 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,123 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,189 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,255 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,330 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,379 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,448 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,514 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,586 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,651 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:46:44,784 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:12,520 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 09:47:12,634 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 09:47:12,634 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 09:47:12,653 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 09:47:12,668 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 09:47:12,671 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 09:47:12,943 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 09:47:12,943 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 09:47:12,976 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 09:47:12,976 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 09:47:13,060 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 09:47:13.060564
+2025-05-07 09:47:13,093 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 09:47:15,420 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 09:47:27,709 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 09:47:27,767 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 09:47:27,768 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 09:47:30,948 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,049 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,140 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,224 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,293 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,349 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,414 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,509 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,565 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,649 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,692 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:47:31,778 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:49:10,073 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:49:10,075 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:49:10,167 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 09:49:10,169 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:14:50,949 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:14:50,963 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:19:26,302 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-07 10:19:26,413 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 10:19:26,413 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 10:19:26,462 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 10:19:26,476 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 10:19:26,476 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 10:19:26,512 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000203472D6AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-07 10:19:26,766 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 10:19:26,766 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 10:19:26,800 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 10:19:26,801 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 10:19:26,908 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 10:19:26.908874
+2025-05-07 10:19:26,943 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 10:19:28,825 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 10:19:37,743 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000203472D6AD0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-07 10:19:41,502 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x00000203472D6AD0>. Removing link to WinEvent.EventSystemForeground.
+2025-05-07 10:19:41,705 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 10:19:45,929 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 10:19:45,929 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 10:19:45,980 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:19:46,053 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:19:46,174 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:19:46,907 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/113.png: timed out
+2025-05-07 10:20:09,544 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 10:20:09,648 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 10:20:09,648 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 10:20:09,688 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 10:20:09,695 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 10:20:09,698 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 10:20:09,963 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 10:20:09,964 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 10:20:09,993 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 10:20:09,994 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 10:20:10,327 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 10:20:10.327893
+2025-05-07 10:20:10,361 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 10:20:12,714 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 10:20:26,954 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 10:20:27,021 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 10:20:27,023 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 10:20:27,216 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:27,259 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,037 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,113 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,242 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,304 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,363 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,441 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,532 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,606 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,669 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,755 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,822 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:20:30,953 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:21:44,898 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 10:21:45,008 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 10:21:45,008 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 10:21:45,064 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 10:21:45,086 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 10:21:45,087 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 10:21:45,357 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 10:21:45,357 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 10:21:45,398 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 10:21:45,398 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 10:21:45,504 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 10:21:45.504240
+2025-05-07 10:21:45,540 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 10:21:47,397 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 10:22:01,398 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 10:22:01,480 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 10:22:01,484 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 10:22:01,665 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:01,713 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:04,556 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:04,649 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:04,738 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:04,811 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:04,954 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,080 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,089 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,155 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,231 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,293 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,356 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:05,479 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:22:53,810 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 10:22:53,911 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 10:22:53,911 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 10:22:53,931 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 10:22:53,943 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 10:22:53,948 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 10:22:54,228 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 10:22:54,228 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 10:22:54,265 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 10:22:54,265 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 10:22:54,354 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 10:22:54.354447
+2025-05-07 10:22:54,388 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 10:22:56,241 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 10:23:10,632 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 10:23:10,695 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 10:23:10,696 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 10:23:10,927 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:10,981 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:13,895 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,007 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,180 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,268 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,334 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,408 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,513 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,595 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,657 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,722 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,782 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:23:14,907 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:38:01,215 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 10:38:01,217 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 11:22:54,349 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 11:22:54.349511
+2025-05-07 11:24:41,915 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 11:24:41,946 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 12:22:41,417 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 12:22:41,446 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 40328
+2025-05-07 12:22:54,355 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 12:22:54.355806
+2025-05-07 21:01:50,571 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 21:01:50,571 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 21:01:50,604 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 21:01:50,604 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 21:01:50,687 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 21:01:50.687330
+2025-05-07 21:01:50,719 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 21:01:51,743 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 21:02:00,514 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 21:02:00,617 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 21:02:00,620 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 21:02:43,403 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 21:02:43,403 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 21:02:43,451 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 21:02:43,451 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 21:02:43,538 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 21:02:43.538459
+2025-05-07 21:02:43,576 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 21:02:47,557 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 21:03:06,518 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 21:03:06,701 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 21:03:06,701 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 21:06:41,403 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:06:41,585 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:12:32,352 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:12:32,352 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:12:32,433 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:12:32,433 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:21:34,005 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:21:35,914 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:21:35,917 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:22:37,462 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:22:37,464 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:22:37,519 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:22:37,521 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:31:42,336 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:31:42,410 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:33:41,457 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:33:41,527 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:43:59,523 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:43:59,621 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:03,660 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:04,154 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:04,365 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:04,430 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:04,730 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:04,952 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:05,017 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:05,258 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:05,329 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:05,492 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:05,752 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:44:07,032 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:46:37,574 [WARNING] [MainThread] [root/weather.py:110]: Weather data is not yet available.
+2025-05-07 21:46:38,385 [WARNING] [MainThread] [root/weather.py:110]: Weather data is not yet available.
+2025-05-07 21:46:38,470 [WARNING] [MainThread] [root/weather.py:110]: Weather data is not yet available.
+2025-05-07 21:46:38,776 [WARNING] [MainThread] [root/weather.py:277]: Weather data is not yet available.
+2025-05-07 21:50:46,088 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:50:46,121 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:50:57,568 [WARNING] [MainThread] [root/weather.py:277]: Weather data is not yet available.
+2025-05-07 21:50:58,518 [WARNING] [MainThread] [root/weather.py:277]: Weather data is not yet available.
+2025-05-07 21:51:18,473 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-07 21:51:18,576 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-07 21:51:18,576 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-07 21:51:18,621 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-07 21:51:18,637 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-07 21:51:18,638 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-07 21:51:18,974 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-07 21:51:18,974 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-07 21:51:19,029 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-07 21:51:19,030 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-07 21:51:19,068 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000292A50B6AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-07 21:51:19,186 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 21:51:19.186177
+2025-05-07 21:51:19,256 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-07 21:51:19,513 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000292A50B6AD0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-07 21:51:19,897 [ERROR] [Dummy-12] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x00000292A50B6AD0>. Removing link to WinEvent.EventSystemForeground.
+2025-05-07 21:51:22,441 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-07 21:51:40,364 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-07 21:51:40,428 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-07 21:51:40,429 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-07 21:51:41,241 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error timed out>
+2025-05-07 21:51:42,934 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/113.png: <urlopen error timed out>
+2025-05-07 21:52:45,353 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 21:52:45,405 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 22:01:19,180 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:01:19.180786
+2025-05-07 22:11:19,182 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:11:19.182404
+2025-05-07 22:11:24,988 [WARNING] [Thread-13 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2025-05-07 22:11:25,992 [WARNING] [Thread-13 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/113.png: <urlopen error timed out>
+2025-05-07 22:21:19,190 [INFO] [Thread-14 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:21:19.190796
+2025-05-07 22:31:19,187 [INFO] [Thread-15 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:31:19.187824
+2025-05-07 22:41:19,177 [INFO] [Thread-16 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:41:19.177358
+2025-05-07 22:51:19,187 [INFO] [Thread-17 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 22:51:19.187083
+2025-05-07 23:01:19,177 [INFO] [Thread-18 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 23:01:19.177573
+2025-05-07 23:09:36,988 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:09:36,990 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:09:37,045 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:09:37,046 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:11:19,178 [INFO] [Thread-19 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-07 23:11:19.178716
+2025-05-07 23:11:33,780 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:11:33,784 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:11:34,030 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-07 23:11:34,032 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 16080
+2025-05-08 15:10:36,347 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-08 15:10:36,347 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-08 15:10:36,385 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-08 15:10:36,385 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-08 15:10:36,486 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:10:36.486147
+2025-05-08 15:10:36,524 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-08 15:10:38,159 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-08 15:10:46,075 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-08 15:10:46,166 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-08 15:10:46,174 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-08 15:10:50,374 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:397]: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/308.png: timed out
+2025-05-08 15:15:10,223 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:15:10,228 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:15:10,298 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:15:10,298 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:15:10,508 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:15:10,509 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:20:36,480 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:20:36.480777
+2025-05-08 15:30:36,485 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:30:36.484795
+2025-05-08 15:34:02,603 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:34:02,643 [DEBUG] [TrayMonitorThread] [root/utils.py:42]: Could not open process with PID 12072
+2025-05-08 15:36:02,090 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-08 15:36:02,199 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-08 15:36:02,199 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-08 15:36:02,234 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-08 15:36:02,240 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-08 15:36:02,241 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-08 15:36:02,258 [ERROR] [Dummy-14] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000023DD2216AD0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-08 15:36:02,586 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-08 15:36:02,586 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-08 15:36:02,619 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-08 15:36:02,619 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-08 15:36:02,784 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:36:02.784355
+2025-05-08 15:36:02,868 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-08 15:36:05,222 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-08 15:36:18,471 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-08 15:36:18,536 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-08 15:36:18,536 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-08 15:36:19,467 [WARNING] [Thread-3 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/308.png: <urlopen error timed out>
+2025-05-08 15:46:02,779 [INFO] [Thread-12 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:46:02.779255
+2025-05-08 15:46:05,411 [WARNING] [Thread-12 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/308.png: <urlopen error timed out>
+2025-05-08 15:56:02,772 [INFO] [Thread-13 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 15:56:02.772619
+2025-05-08 15:56:11,181 [WARNING] [Thread-13 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/308.png: <urlopen error timed out>
+2025-05-08 16:06:02,787 [INFO] [Thread-14 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 16:06:02.787976
+2025-05-08 16:06:06,462 [WARNING] [Thread-14 (_get_weather_data)] [root/weather.py:395]: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/308.png: <urlopen error timed out>
+2025-05-08 16:16:02,792 [INFO] [Thread-16 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 16:16:02.792135
+2025-05-08 17:39:35,000 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-08 17:39:35,000 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jhanhang\.config\yasb\.env, skipping environment loading.
+2025-05-08 17:39:35,027 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-08 17:39:35,027 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-08 17:39:35,109 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-08 17:39:35.109115
+2025-05-08 17:39:35,140 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-08 17:39:36,124 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-08 17:39:42,698 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jhanhang\.config\yasb
+2025-05-08 17:39:42,810 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-08 17:39:42,810 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started

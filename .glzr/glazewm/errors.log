@@ -1,0 +1,12 @@
+[2m2025-04-05T10:03:13.995571Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: 操作已被用户取消。 (0x800704C7)
+[2m2025-04-05T10:05:10.867408Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: 操作已被用户取消。 (0x800704C7)
+[2m2025-04-24T14:54:44.021104Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: 操作已被用户取消。 (0x800704C7)
+[2m2025-05-04T07:48:25.614264Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.hide_title_bar.enabled: invalid type: string "f", expected a boolean at line 90 column 16
+[2m2025-05-04T07:49:38.303103Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.hide_title_bar.enabled: invalid type: string "f", expected a boolean at line 90 column 16
+[2m2025-05-04T07:49:49.035608Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.hide_title_bar.enabled: invalid type: string "f", expected a boolean at line 90 column 16
