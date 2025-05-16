@@ -1,0 +1,128 @@
+[manager]
+cwd = { fg = "#ffffff" }  # 使用亮黑
+
+# tab
+tab_active = { fg = "#000000", bg = "#C19C00", bold = true }
+tab_inactive = { fg = "#767676", bg = "#000000" }
+tab_width = 1
+
+# find
+find_keyword = { fg = "#0037DA", bold = true, italic = true, underline = true }
+find_position = { fg = "#0037DA", bold = true, italic = true }
+
+# marker
+marker_copied = { fg = "#000000", bg = "#16C60C" }
+marker_cut = { fg = "#000000", bg = "#C50F1F" }
+marker_marked = { fg = "#000000", bg = "#3A96DD" }
+marker_selected = { fg = "#000000", bg = "#C19C00" }
+
+# count
+count_copied = { fg = "#000000", bg = "#16C60C" }
+count_cut = { fg = "#767676", bg = "#C50F1F" }
+count_selected = { fg = "#000000", bg = "#C19C00" }
+
+# border
+border_symbol = " "
+
+[mode]
+normal_main = { fg = "#354e16", bg = "#cdeda3", bold = true }
+normal_alt = { fg = "#404a33", bg = "#dce7c8", bold = true }
+
+select_main = { fg = "#000000", bg = "#3A96DD", bold = true }
+select_alt = { fg = "#000000", bg = "#3A96DD", bold = true }
+
+unset_main = { fg = "#000000", bg = "#C50F1F", bold = true }
+unset_alt = { fg = "#000000", bg = "#C50F1F", bold = true }
+
+[status]
+separator_open = ""
+separator_close = ""
+separator_style = { bg = "#ffffff", fg = "#ffffff" }
+
+# Progress
+progress_label = { fg = "#ffffff", bold = true }
+progress_normal = { fg = "#ffffff", bg = "#000000" }
+progress_error = { fg = "#C50F1F", bg = "#000000" }
+
+# permissions
+perm_type = { fg = "#CCCCCC" }
+perm_write = { fg = "#C50F1F" }
+perm_exec = { fg = "#13A10E" }
+perm_read = { fg = "#3A96DD" }
+perm_sep = { fg = "#767676" }
+
+[select]
+border = { fg = "#C19C00" }
+active = { fg = "#C50F1F", bold = true }
+inactive = { fg = "#767676", bg = "#000000" }
+
+[input]
+border = { fg = "#bcece7" }
+value = { fg = "#ffffff" }
+
+[completion]
+border = { fg = "#C19C00", bg = "#000000" }
+
+[tasks]
+border = { fg = "#C19C00" }
+title = { fg = "#767676" }
+hovered = { fg = "#16C60C", underline = true }
+
+[which]
+cols = 3
+mask = { bg = "#000000" }
+cand = { fg = "#C19C00" }
+rest = { fg = "#000000" }
+desc = { fg = "#767676" }
+separator = " ⯈ "
+separator_style = { fg = "#767676" }
+
+[help]
+on = { fg = "#C19C00" }
+run = { fg = "#16C60C" }
+footer = { fg = "#000000", bg = "#767676" }
+
+[notify]
+title_info = { fg = "#16C60C" }
+title_warn = { fg = "#C19C00" }
+title_error = { fg = "#C50F1F" }
+
+[filetype]
+rules = [
+	# directories
+	{ name = "*/", fg = "#ffffff" },
+
+	# executables
+	{ name = "*", is = "exec", fg = "#cdeda3" },
+
+	# images
+	{ mime = "image/*", fg = "#bcece7" },
+
+	# media
+	{ mime = "{audio,video}/*", fg = "#bcece7" },
+
+	# archives
+	{ mime = "application/{,g}zip", fg = "#cdeda3" },
+	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#cdeda3" },
+
+	# documents
+	{ mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#cdeda3" },
+
+	# scripts and code
+	{ mime = "application/{x-shellscript,x-python,x-ruby,x-javascript}", fg = "#cdeda3" },
+	{ mime = "text/x-{c,c++}", fg = "#cdeda3" },
+
+	# config files
+	{ name = "*.json", fg = "#cdeda3" },
+	{ name = "*.yml", fg = "#cdeda3" },
+	{ name = "*.toml", fg = "#cdeda3" },
+
+	# special files
+	{ name = "*", is = "orphan", bg = "#ffdad6" },
+
+	# dummy files
+	{ name = "*", is = "dummy", bg = "#ffdad6" },
+
+	# fallback
+	{ name = "*/", fg = "#3A96DD" },
+]

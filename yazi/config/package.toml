@@ -1,0 +1,7 @@
+[plugin]
+deps = []
+
+[[flavor.deps]]
+use = "kmlupreti/ayu-dark"
+rev = "5412a78"
+hash = "952ccafcda0bd8e562f579e2033080d1"
